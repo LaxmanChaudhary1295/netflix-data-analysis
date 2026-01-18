@@ -134,6 +134,7 @@ It reflects my growing skills as an Aspiring Data Scientist.
 
 📬 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/laxman
+LinkedIn: https://www.linkedin.com/in/laxman-chaudhary-277b342b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 GitHub: https://github.com/LaxmanChaudhary1295
